@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: plbstl/first-contribution@v3
         with:
-          issue-opened-msg: |
+          pr-opened-msg: |
             ### Hey @{fc-author} !
 
             Looks like it's your first pull reqests to Armbian codebase.
